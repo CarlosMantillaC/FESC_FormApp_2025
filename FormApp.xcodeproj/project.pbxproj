@@ -97,6 +97,7 @@
 		C4ACC4842E7B59A5001A75F4 = {
 			isa = PBXGroup;
 			children = (
+				C4ACC4E52E7B5F14001A75F4 /* Capturas de Pantalla */,
 				C4ACC4CA2E7B59D3001A75F4 /* FormApp */,
 				C4ACC4D32E7B59D7001A75F4 /* FormAppTests */,
 				C4ACC4D72E7B59DE001A75F4 /* FormAppUITests */,
@@ -117,7 +118,6 @@
 		C4ACC4CA2E7B59D3001A75F4 /* FormApp */ = {
 			isa = PBXGroup;
 			children = (
-				C4ACC4E52E7B5F14001A75F4 /* Capturas de Pantalla */,
 				C4ACC4DC2E7B59F1001A75F4 /* Presenter */,
 				C4ACC4DB2E7B59EB001A75F4 /* View */,
 				C4ACC4DA2E7B59E5001A75F4 /* Model */,
